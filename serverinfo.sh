@@ -1,5 +1,7 @@
 #!/bin/bash
 #By Lance Zeligman
+#Script is designed to output minecraft.py information to libnotify
+
 minecraft=$(/home/lance/.bin/minecraft.py)
 OUT=$?
 
